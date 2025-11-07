@@ -140,7 +140,7 @@ GDP_Analysis_Final/
 
 **Volodymyr Byelov**  
 Data Analyst (Alfatraining Program, Germany)  
-📧 vova.belov@gmail.com  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/volodymyr-byelov-76a5b2377)
 🔗 [GitHub Profile](https://github.com/vbyelov)
 
 ---
