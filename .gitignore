@@ -1,0 +1,15 @@
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+
+# Temporary files
+*.tmp
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python cache
+__pycache__/
+*.pyc
